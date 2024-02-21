@@ -1,5 +1,13 @@
+<h1 align="center">Hi 👋, I'm Sangmin</h1>
 
-![Waving](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=HANSANGMIN)
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&text=Back-end%20/%20AL%20/%20ML&animation=&fontColor=000000&fontSize=60" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Han Sang Min </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello, I am developer JangJeongWoo who wants to make the world a better place. </div> 
+    </div>
+
 ### Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHan-sann-min%2Fhit-counter&count_bg=%23348AB6&title_bg=%23555555&icon=github.svg&icon_color=%23DA1CDF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
