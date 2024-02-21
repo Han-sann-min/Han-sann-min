@@ -34,10 +34,7 @@
 ![Static Badge](https://img.shields.io/badge/docker-f0f8ff?style=for-the-badge&logo=docker&logoColor=%232496ED)
 ![Static Badge](https://img.shields.io/badge/elasticsearch-915c83?style=for-the-badge&logo=elasticsearch&logoColor=%232496ED)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-sann-min)](https://github.com/Han-sann-min/github-readme-stats)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-sann-min&layout=compact)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-sann-min&hideCSS&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats)<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Han-sann-min)](https://github.com/Han-sann-min/github-readme-stats)
 <!--
 **Han-sann-min/Han-sann-min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
